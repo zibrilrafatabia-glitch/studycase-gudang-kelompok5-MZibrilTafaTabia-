@@ -18,10 +18,12 @@ Study case ini dibuat untuk memahami konsep dasar pemrograman Java, khususnya:
 ---
 
 ## 📁 Struktur Folder
+```
 pergudangan/
 ├── Main.java # Program utama (CRUD logic & menu)
 ├── Main.class # Hasil compile Java
 └── README.md # Dokumentasi project
+```
 
 ---
 
